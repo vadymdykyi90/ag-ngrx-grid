@@ -1,0 +1,15 @@
+.ag-cell-focus {
+    border-color: transparent !important;
+}
+
+#eIcon,
+#eShortcut,
+#ePopupPointer{
+    display: none;
+}
+
+#eName a {
+    color: #000;
+    padding: 10px;
+    text-decoration: none;
+}
